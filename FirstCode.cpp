@@ -8,7 +8,7 @@ int main(){
 	ifstream fin("duomenys.txt");
 	
 	fin >> a;
-	cout<< "\n" << a << "\n\n";
+	cout<< "\n" << a << "\n";
 	
 	fin.close();
 	return 0;
